@@ -1,0 +1,2 @@
+This is the installation instructions installing the Jing Bao cryptocurrency software for use with
+Ubuntu 16.04 amd 64 bit operating systems.
