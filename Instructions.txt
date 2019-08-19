@@ -1,2 +1,21 @@
 This is the installation instructions installing the Jing Bao cryptocurrency software for use with
 Ubuntu 16.04 amd 64 bit operating systems.
+
+It is a large scale work in progress
+
+It has leaked out into the internet we did not intend for it to be released yet.
+
+Such is life.
+
+For those of you that have the jingbao software here are the real ip addresses
+of the main jing bao servers.
+
+Here the two main jingbao server addresses
+
+60.225.70.57:8588
+110.151.33.44:8588
+
+Download the real Jing Bao blockchain from there and include those ip addresses 
+in your jingbao.conf file
+
+
