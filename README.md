@@ -1,4 +1,10 @@
 # jingbao
 Cryptocurrency
-I am new to Git - Hub so gimme a break
-loving the shell 
+
+Our Blockchain is experiencing Technical difficulties at this present time.
+
+So you can play with the files all you want.
+
+We will release jingbao V2 to patch the problem.
+
+
